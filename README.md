@@ -1,50 +1,8 @@
-Curso Angular Gratuito
-=================
+# Curso de Angular 2
 
-[![Open in Visual Studio Codespaces](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Faka.ms%2Fvso-badge)](https://online.visualstudio.com/environments/new?name=Curso%20Angular&repo=loiane/curso-angular)
+## Loiane Groner
 
-Código fonte apresentado no curso de Angular gratuito do blog loiane.com - loiane.training
-
-**Código atualizado para Angular v10**
-
-### Link do curso com certificado:
-* [http://loiane.training/curso/angular/](http://loiane.training/curso/angular/)
-
-### Playlist Youtube
-* [Clique aqui para assistir a todos os vídeos já publicados](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
-
-### Editor e plugins
-
-Particularmente recomendo o uso do Visual Studio Code como editor - que é o mesmo usado nas aulas.
-
-Para pacote de plugins, instale esse pacote de extensões VSCode que contém todos os plugins mostrados durante as aulas do curso: [https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack).
-
-### ✏️ Lista das aulas CRUD Angular + Spring
-
-<details><summary><b>Módulo 1: Introdução</b></summary>
-
-- Introdução e Criação do Projeto - 23/Ago
-- Overview do Projeto e Instalando o Angular Material - 30/Ago
-- Criando uma Toolbar - 06/Set
-- Criando o Módulo de Cursos e Usando Roteamento com Lazy Loading - 13/Set
-- Customizando o Tema do Angular Material - 20/Set
-</details>
-
-<details><summary><b>Módulo 2: Lista de Cursos</b></summary>
-
-- Lista de Cursos com Material Table - 27/Set
-- Melhorando o CSS e Criação do Módulo do Angular Material - 04/Out
-- Criando Cursos Service - 11/Out
-- Cursos Service: HTTP GET  - 18/Out
-- Lista de Cursos: Spinner (Carregando) - 25/Out
-- Lista de Cursos: Tratamento de Erros - 01/Nov
-- Criando Popup para Mensagem de Erros - 08/Nov
-- Criando Pipe para Categoria do Curso - 15/Nov
-</details>
-
-### Lista das aulas Curso Angular
-
-Aulas publicadas/programadas
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
 
 #### Introdução
 * 01: Introdução + Arquitetura
@@ -84,7 +42,7 @@ Aulas publicadas/programadas
 * 27: ngFor
 * 28: sobre o asterisco
 * 29: ngClass
-* 10: ngStyle
+* 30: ngStyle
 * 31: operador elvis
 * 32: ng-content
 * 33: Criando uma diretiva de atributo
@@ -92,7 +50,7 @@ Aulas publicadas/programadas
 * 35: Property Binding de Diretivas
 * 36: Criando uma diretiva de estrutura (ngElse)
 
-## Serviço (Service) e Injeção de Dependência (DI)
+#### Serviço (Service) e Injeção de Dependência (DI)
 * 37: Introdução a Serviços
 * 38: Criando um serviço (Service)
 * 39: Injeção de Dependência (DI) + como usar um serviço em um componente
@@ -100,7 +58,7 @@ Aulas publicadas/programadas
 * 41: Injetando um serviço em outro serviço
 * 42: Comunicação entre componentes usando serviços
 
-## Pipes
+#### Pipes
 * 43: Pipes (usando pipes, parâmetros e pipes aninhados)
 * 44: Criando um Pipe
 * 45: Aplicando Locale (internacionalização) nos Pipes
@@ -108,7 +66,7 @@ Aulas publicadas/programadas
 * 47: Pipes: Criando um Pipe "Impuro"
 * 48: Pipes: Async
 
-## Rotas
+#### Rotas
 * 49: Rotas: Introdução
 * 50: Rotas: Configurando rotas simples
 * 51: Rotas: RouterLink: definindo rotas no template
@@ -133,7 +91,7 @@ Aulas publicadas/programadas
 * 70: Definindo rota padrão e wildcard (rota não encontrada)
 * 71: Estilo de url: HTML5 ou usando #
 
-## Formulários (Templates)
+### Formulários (Templates)
 * 72: Formulários (template vs data / reativo) Introdução
 * 73: Formulários - Criando o projeto inicial com Bootstrap 3
 * 74: Forms (template driven) Controles ngForm, ngSubmit e ngModel
@@ -151,7 +109,7 @@ Aulas publicadas/programadas
 * 86: Forms (template driven) Populando campos com setValue e patchValue (CEP)
 * 87: Forms (template driven) Submetendo valores com HTTP POST
 
-## Formulários (Reativos)
+#### Formulários (Reativos)
 * 88: Formulários reativos (data driven) Introdução
 * 89: Formulários reativos: Configuração (Módulo e Componente)
 * 90: Formulários reativos: Criando um form com código Angular
@@ -182,7 +140,7 @@ Aulas publicadas/programadas
 * 115: Formulários reativos: Classe base para Forms (herança no Angular)
 * 116: Formulários reativos: Combobox aninhado: Estado + Cidade
 
-## Integração com server
+#### Integração com server
 * 117: Http / HttpClient: Introdução
 * 118: Instalando Bootstrap 4
 * 119: Http: Simulando Servidor REST (json-server)
